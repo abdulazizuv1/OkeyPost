@@ -1,0 +1,11 @@
+.h1_text2{
+    margin-bottom: 45px;
+}
+.clients_boxes2{
+    flex-wrap: wrap;
+    display: flex;
+
+}
+.client_box2{
+    width: 610px;
+}

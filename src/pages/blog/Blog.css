@@ -1,0 +1,41 @@
+.blog_boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.blog_box>img{
+    width: 100%;
+}
+.blog_box {
+    width: 400px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(196, 195, 195, 0.237);
+}
+.blog_box_bt{
+    padding: 25px;
+}
+.blog_info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+    margin-top: 20px;
+}
+.blog_info p{
+    color: #909090;
+}
+.blog_text{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.slide_box1:hover{
+    border: 2px solid #FF5290;
+    color: #FF5290;
+}
+.sale_slide1{
+    margin-top: 30px;
+    margin-bottom: 150px;
+}

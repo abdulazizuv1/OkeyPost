@@ -1,0 +1,127 @@
+.how_to_buy .container2{
+    border-radius: 25px;
+    background: linear-gradient(to right, #5B52A3, #40B8EA);
+    margin-bottom: 110px;
+}
+.how_to_buy .container{
+    padding: 30px 0px;
+    color: white;
+}
+.how_to_buy p{
+    font-size: 13px;
+    font-weight: 300;
+    margin-bottom: 23px;
+}
+.how_to_buy h1{
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+.how_to_buy button{
+    background: linear-gradient(to right, #00C97B, #00D981);
+    padding: 18px 30px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px #00C97B;
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+
+.buy_uk h1{
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.buy_uk p{
+    font-weight: 300;
+    width: 60%;
+    line-height: 28px;
+    margin-bottom: 30px;
+}
+
+.buy_card{
+    display: flex;
+    gap: 60px;
+    margin-bottom: 60px;
+}
+.buy_card_title{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+.buy_card_title h1{
+    font-size: 60px;
+    color: #01CD7D;
+    font-weight: 300;
+    border-right: 1px solid #C0C9D7;
+    padding-right: 25px;
+}
+.buy_card_title h2{
+    width: 43%;
+    font-weight: 800;
+}
+.buy_card_right p{
+    width: 100%;
+}
+.buy_card_right span{
+    color: #01CD7D;
+    font-weight: 600;
+}
+.buy_block button{
+    background: linear-gradient(to right, #00C97B, #00D981);
+    padding: 18px 30px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px #00C97B;
+    margin-top: -45px;
+    margin-bottom: 50px;
+}
+
+.questions .container2{
+    border-radius: 25px;
+    background: linear-gradient(to right, #5B52A3, #40B8EA);
+    margin-bottom: 110px;
+}
+.questions .container{
+    padding: 90px 0px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.quest_right{
+    display: flex;
+    gap: 8px;
+    margin-top: -30px;
+}
+.quest_box{
+    width: 46px;
+    height: 46px;
+    border: 2px solid white;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 23px;
+    color: white;
+    transition: all .3s ease;
+}
+.quest_box:hover{
+    background-color: white;
+    color: #40B8EA;
+}
+.questions h1{
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 8px;
+}

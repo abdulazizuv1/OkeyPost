@@ -1,0 +1,26 @@
+.popular_boxes{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.popular_box{
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(196, 195, 195, 0.237);
+    width: 240px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    flex-direction: column;
+    position: relative;
+}
+.popular_box h4{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+.sale_slide2{
+    margin-top: 40px;
+    margin-bottom: 160px;
+}

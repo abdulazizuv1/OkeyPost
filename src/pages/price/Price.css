@@ -1,0 +1,153 @@
+.price_boxes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+    margin-bottom: 170px;
+}
+.price_box img{
+    width: 100%;
+}
+.price_box h3{
+    margin: 10px 0px;
+    font-size: 22px;
+    line-height: 36px;
+    font-weight: 800;
+}
+.price_box p{
+    margin-bottom: 18px;
+    font-weight: 300;
+    line-height: 28px;
+}
+.price_box button{
+    padding: 16px 36px;
+    color: white;
+    background-color: #41B7E9;
+    border-radius: 10px;
+    border: none;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.price_box button:hover{
+    background-color: #2e91bb;
+}
+.online_buying h1{
+    font-size: 32px;
+    font-weight: 800;
+    width: 46%;
+    margin-bottom: 30px;
+}
+.online_buying>p{
+    width: 65%;
+    font-size: 20px;
+    font-weight: 300;
+
+}
+.online_buying{
+    margin-bottom: 170px;
+}
+
+.сервисы>h1{
+    font-weight: 800;
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+.сервисы{
+    margin-bottom: 250px;
+}
+.line_boxes{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.line-m-box{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px 30px;
+    border-radius: 15px;
+    height: 70px;
+    box-shadow: 0px 0px 10px rgba(187, 186, 186, 0.242);
+    margin-bottom: 20px;
+}
+.first_h{
+    width: 80%;
+    border-right: 1px solid #C0C9D7;
+    font-weight: 800;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.last_h{
+    padding-left: 30px;
+    font-weight: 800;
+    width: 28%;
+}
+
+.first_h2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.first_h2 h4{
+    font-weight: 800;
+    margin-bottom: 4px;
+}
+.first_h2 p{
+    font-weight: 400;
+    font-size: 13px
+}
+.line-max-box{
+    height: 90px;
+}
+
+.h1_text{
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.p{
+    width: 84%;
+}
+
+.h4_new{
+    padding: 10px 0px 10px 20px;
+    font-size: 14px;
+}
+
+.send_right2{
+    margin: 20px 0px;
+}
+.virt_right2 h1{
+    font-size: 24px;
+}
+.send_right2 input{
+    background: url(/imgs/link.png);
+    background-repeat: no-repeat;
+    background-position: 4px 18px;
+    width: 70%;
+}
+.cont_btn{
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+.cont_btn p{
+    font-size: 15px;
+    font-weight: 300;
+}
+.cont_btn button{
+    padding: 20px 60px;
+}
+
+.last_h2{
+    width: 76%;
+}
+.liners{
+    margin-bottom: 150px;
+}
+.line-max-box1{
+    width: 49%;
+    margin-bottom: 150px;
+}
